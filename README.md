@@ -135,7 +135,7 @@ Power Monitor (PM02):
 
 ### 4. Upload Sketch
 
-1. Open `ESP32_Motor_Test_COMPLETE_v2_5.ino`
+1. Open `ESP32_Motor_Test.ino`
 2. Select board: **ESP32 Dev Module**
 3. Select correct COM port
 4. Click **Upload** (Ctrl+U)
@@ -336,7 +336,7 @@ Complete documentation available in `/docs`:
 
 ```
 vtol-motor-test/
-├── ESP32_Motor_Test_COMPLETE_v2_5.ino    # Main sketch
+├── ESP32_Motor_Test.ino    # Main sketch
 ├── README.md                              # This file
 ├── LICENSE                                # MIT License
 ├── docs/
