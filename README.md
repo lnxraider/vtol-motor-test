@@ -92,7 +92,7 @@ Install via **Arduino IDE → Tools → Manage Libraries:**
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vtol-motor-test.git
+git clone https://github.com/lnxraider/vtol-motor-test.git
 cd vtol-motor-test
 ```
 
@@ -428,7 +428,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-**Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/vtol-motor-test/issues)
+**Issues:** [GitHub Issues](https://github.com/lnxraider/vtol-motor-test/issues)
 
 **Documentation:** See `/docs` folder
 
